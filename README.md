@@ -2,7 +2,7 @@
 <h3 align="center">Soy Estudiante de Computación en el Instituto Tecnológico de Costa Rica</h3>
 
 - ✨ Me encanta el arte y el diseño, hago videojuegos en mi tiempo libre y me gusta siempre estar aprendiendo
-- 🎮 Mis proyectos de GameDev se pueden ver en: [https://delpher57.github.io/Delpher/](https://delpher57.github.io/Delpher/)
+- 🎮 Mis portafolio se puede ver en: [delpher57.github.io/Delpher/](https://delpher57.github.io/Delpher/)
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
