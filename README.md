@@ -57,8 +57,9 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensoflow" width="40" height="40"/> </a> 
 
 
-  
+
+  <h3>Stats</h3>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=delphxr)](https://github.com/ryo-ma/github-profile-trophy)
   
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphxr&layout=compact)
