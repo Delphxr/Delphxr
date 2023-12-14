@@ -62,4 +62,4 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=delphxr)](https://github.com/ryo-ma/github-profile-trophy)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphxr&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphxr&layout=compact&hide=css,html)
