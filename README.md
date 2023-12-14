@@ -59,6 +59,6 @@
 
   
 
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=delphxr)](https://github.com/ryo-ma/github-profile-trophy)
   
 
