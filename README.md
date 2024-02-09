@@ -1,5 +1,5 @@
 <h1 align="center">🔹 Hi! I'm Oswaldo 🔹</h1>
-<h3 align="center">Student of CS at Instituto Tecnológico de Costa Rica</h3>
+<h3 align="center">Data Engineer at Procter & Gamble | Indie Game Developer</h3>
 
 - ✨ I love art & Design, I make videogames in my free time and love to always be learning.
 - 🎮 Mi game portfolio can be seen in: [delphxr.github.io/Delpher/](https://delphxr.github.io/Delpher/)
