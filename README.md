@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer at Procter & Gamble | Indie Game Developer</h3>
 
 - ✨ I love art & Design, I make videogames in my free time and love to always be learning.
-- 🎮 Mi game portfolio can be seen in: [delphxr.github.io/Delpher/](https://delphxr.github.io/Delpher/)
+- 🎮 Mi game portfolio can be seen in: [me.delpher.dev](https://me.delpher.dev)
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
